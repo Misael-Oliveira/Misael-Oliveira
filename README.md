@@ -3,17 +3,17 @@
 ## Hi there 👋
 <br>
 <br>
-Meu nome é Misael tenho 22 anos, moro em Brasília/DF, estou entrando no mundo da tecnológia Faço curso de Análise e Desenvolviemnto de sistemas :computer: na Universidade Católica de Brasília e também faço parte do programa ONE, que ajuda pessoas a entrar na aréa de tecnologia.
+Meu nome é Misael tenho 22 anos, moro em Brasília/DF, estou entrando no mundo da tecnológia. Faço curso de Análise e Desenvolviemnto de sistemas :computer: na Universidade Católica de Brasília e também faço parte do programa ONE, aprendendo mais sobre Data Science.
 <p> 
 <div dsplay="inline-block">
 
 ### Redes Sociais:
  
 
- <a href="https://www.instagram.com/oliverm_silva/">
+ <a href="https://www.instagram.com/oliverm_silva/" target="_blank">
     <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
   </a> 
-  <a href="https://www.linkedin.com/in/misael-silva-8a66a1210">
+  <a href="https://www.linkedin.com/in/misael-silva-8a66a1210" target="_blank">
     <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
 
