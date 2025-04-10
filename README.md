@@ -3,10 +3,11 @@
 ## Hi there 👋
 <br>
 <br>
-Meu nome é Misael tenho 22 anos, moro em Brasília/DF, estou entrando no mundo da programação. Faço curso técnico de informática :computer: e também faço parte do programa ONE, que ajuda pessoas a entrar na aréa de tecnologia.
-<br> 
+Meu nome é Misael tenho 22 anos, moro em Brasília/DF, estou entrando no mundo da tecnológia Faço curso de Análise e Desenvolviemnto de sistemas :computer: na Universidade Católica de Brasília e também faço parte do programa ONE, que ajuda pessoas a entrar na aréa de tecnologia.
+<p> 
 <div dsplay="inline-block">
 
+### Redes Sociais:
  
 
  <a href="https://www.instagram.com/oliverm_silva/">
@@ -16,7 +17,7 @@ Meu nome é Misael tenho 22 anos, moro em Brasília/DF, estou entrando no mundo 
     <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
 
-</div>
+</div> </p>
 <br>
 
 ### 🖥️ Tecnologias e Ferramentas que estou aprendendo:
